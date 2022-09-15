@@ -5,3 +5,6 @@ node_modules
 .vscode
 .history
 examples/moddef.json
+package-lock.json 
+functions
+yarn.lock 
